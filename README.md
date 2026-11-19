@@ -1,2 +1,8 @@
-# cobalt-pilot-146
-Ryan Vo | Open-source Grok Bot alternative with a virtual machine that bots can use
+# cobalt-pilot-146 — Ryan Vo
+
+Current version: `1.0.0`.
+
+> Work in progress. This checkpoint may be incomplete or fail tests. See PLAN.md and STATUS.md before use.
+
+
+Maintainer: Ryan Vo <ryandtvo@gmail.com>
