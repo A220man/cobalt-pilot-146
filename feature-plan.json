@@ -5,7 +5,7 @@
     {
       "id": "skeleton-init",
       "title": "Project skeleton initialization",
-      "status": "in_progress",
+      "status": "done",
       "acceptance": [
         "feature-plan.json exists with valid schema",
         "PLAN.md exists with project overview",

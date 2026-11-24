@@ -10,7 +10,7 @@ skeleton-init
 
 ### skeleton-init — Project skeleton initialization
 
-Status: in_progress
+Status: done
 
 Acceptance:
 - feature-plan.json exists with valid schema
